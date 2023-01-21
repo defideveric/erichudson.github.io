@@ -1,0 +1,245 @@
+#title {
+    background-color: #000;
+    padding-bottom: 130px;
+    color: #fff;
+}
+
+body {
+    color: white;
+    font-family: 'Source Sans Pro';
+}
+
+
+h1 {
+    font-family: "Source Sans Pro";
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.line2{
+    font-family: "Source Sans Pro";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+
+.bio-text{
+    font-weight: lighter;
+    line-height: 1.5;
+    padding-top: 3%;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+/* Navigation Bar */
+
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Source Sans Pro";
+
+}
+
+
+
+/*Download Buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+
+
+/* Experience Sections & Images */
+
+#experience{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(5,5,5,1) 35%, rgba(43,43,43,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(5,5,5,1) 35%, rgba(43,43,43,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(5,5,5,1) 35%, rgba(43,43,43,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#2b2b2b",GradientType=1);
+    font-family: "Source Sans Pro";
+    height: 500px;
+}
+
+
+.diamond-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+
+#experience2{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,0,71,1) 35%, rgba(8,0,40,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,0,71,1) 35%, rgba(8,0,40,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,0,71,1) 35%, rgba(8,0,40,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#080028",GradientType=1);
+    height: 500px;
+}
+
+.planet-image{
+    margin: 0 12px 0 0;
+    font-size: 90px;
+    float: left; 
+}
+
+
+#experience3{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(39,0,71,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(39,0,71,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(39,0,71,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#270047",GradientType=1);
+    height: 500px;
+}
+
+.cube-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+#experience4{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#262626",GradientType=1);
+    height: 500px;
+}
+
+
+
+#experience5{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#262626",GradientType=1);
+    height: 500px;
+}
+
+
+#experience6{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#262626",GradientType=1);
+    height: 500px;
+}
+
+
+
+#experience7{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#262626",GradientType=1);
+    height: 500px;
+}
+
+
+
+#experience8{
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(38,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#262626",GradientType=1);
+    height: 500px;
+}
+
+
+
+
+<!--More Experience Images --->
+
+
+.plane-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+.python-image {
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+.javascript-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+.html-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+.css-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+.react-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+.node-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+.database-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+.bootstrap-image{
+    margin: 0 10px 0 0;
+    font-size: 90px;
+    float: left;
+}
+
+
+@media (max-width: 993px) {
+    .title-image {
+        position: static;
+    }
+}
